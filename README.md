@@ -1,5 +1,13 @@
 # Click-Through Rate Prediction
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-006600)
+![LightGBM](https://img.shields.io/badge/LightGBM-4.0+-9558B2)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-explainability-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Predicting mobile ad click-through rates using machine learning on the Avazu dataset.
 
 ## Project Overview

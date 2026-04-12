@@ -110,3 +110,7 @@ The pipeline progresses through five modeling layers — from a Logistic Regress
 - **ML:** scikit-learn, XGBoost, LightGBM, imbalanced-learn (SMOTE)
 - **Deep Learning:** PyTorch (DeepFM implementation)
 - **Interpretation:** SHAP
+
+## Author
+
+**Ruide Yin** — [GitHub](https://github.com/yinruide)
